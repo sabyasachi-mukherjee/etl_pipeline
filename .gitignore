@@ -1,0 +1,4 @@
+venv_etl
+__pycache__
+check_db.sh
+uni_info.db
