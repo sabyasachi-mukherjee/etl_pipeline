@@ -42,7 +42,3 @@ data = extract()
 df = transform(data)
 #print(df.dtypes)
 load(df)
-
-
-
-
