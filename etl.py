@@ -4,7 +4,7 @@ from sqlalchemy import create_engine # to create a connection to a sqlite databa
 
 def extract() -> dict:
     """
-    This API will extract data from http://universities.hipolabs.com
+    This will extract data from http://universities.hipolabs.com
     """
 
     API_URL = "http://universities.hipolabs.com/search?country=Germany"
